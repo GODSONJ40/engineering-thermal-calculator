@@ -24,12 +24,14 @@ The application supports multiple materials with predefined thermal properties a
 🚨 Input validation and error handling
 📊 Clear and structured console output
 🔄 Easily extensible for future GUI (Qt) integration
+
 🧰 Technologies Used
 C++
 Standard Template Library (STL)
 Object-Oriented Programming (OOP)
 Command-line interface (CLI)
 Git version control
+
 📁 Project Structure
 EngineeringCalculator/
 │
@@ -42,6 +44,7 @@ EngineeringCalculator/
 │   └── README.md
 │
 └── calculator.exe (ignored in repo via .gitignore)
+
 ▶️ How to Compile & Run
 💻 Windows (Using g++ / MinGW)
 
@@ -67,12 +70,12 @@ Select material (water / steel / aluminum): water
 Material: water  
 Temperature Change: 55 °C  
 Heat Required: 2302300 Joules  
-
 Calculation complete.
+
+- see screenshots
+
 🧠 Engineering Context
-
 This project simulates real-world engineering calculation tools used in industrial environments such as:
-
 Process engineering
 Metallurgical systems
 Thermal modeling
@@ -86,16 +89,9 @@ Data export (CSV / Excel)
 Multi-scenario comparison mode
 Visualization of thermal curves
 Integration with engineering datasets
+
 👨‍💻 Author
-
 Godson Jean
-
 GitHub: https://github.com/GODSONJ40
 LinkedIn: http://www.linkedin.com/in/godson-jean-03854a130
-⭐ Why This Project Matters
 
-This project demonstrates the ability to:
-
-Translate engineering equations into software
-Build modular and maintainable C++ systems
-Develop tools aligned with industrial engineering workflows
